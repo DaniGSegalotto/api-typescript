@@ -1,4 +1,4 @@
-# Inicio da API usando typescript
+# API usando typescript
 
 Steps to run this project:
 
