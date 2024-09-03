@@ -15,11 +15,7 @@ export const AppDataSource = new DataSource({
   database: process.env.DB_NAME,
   synchronize: true,
   logging: false,
-<<<<<<< HEAD
   entities: [Usuario, Aluguel],
-=======
-  entities: [__dirname+"/models/**/*.{js,ts}"],
->>>>>>> f922643cfc077fbc8e469e4918a4d0b633127157
   migrations: [],
   subscribers: [],
 });
