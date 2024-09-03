@@ -2,7 +2,7 @@
    "name": "upf",
    "version": "0.0.1",
    "description": "API - typescript, express, postgres",
-   "author": "Pablo Leon Rodrigues",
+   "author": "Daniel Gado Segalotto",
    "type": "commonjs",
    "devDependencies": {
       "@types/node": "^16.11.10",
